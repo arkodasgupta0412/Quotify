@@ -78,10 +78,5 @@ Contributions are always welcome!
 
  - The typewriter effect was implemented from [this](https://www.youtube.com/watch?v=MiTJnYHX3iA) video by dcode.
 
- 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
